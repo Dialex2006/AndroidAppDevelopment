@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FinalApp</string>
+    <string name="intentString" translatable="false">EUR</string>
+    <string name="welcome">Welcome to My App!</string>
+    <string name="currencies">Currency exchange rates</string>
+    <string name="author">Implemented by Dmitrii Bacherikov</string>
+    <string name="start_gps">Start GPS</string>
+    <string name="sek" translatable="false">EUR/SEK</string>
+    <string name="nok" translatable="false">EUR/NOK</string>
+    <string name="jpy" translatable="false">EUR/JPY</string>
+    <string name="jpy_rate">EUR/JPY rate:</string>
+    <string name="nok_rate">EUR/NOK rate:</string>
+    <string name="sek_rate">EUR/SEK rate:</string>
+    <string name="rub_rate">EUR/RUB rate:</string>
+    <string name="gbp_rate">EUR/GBP rate:</string>
+    <string name="usd_rate">EUR/USD rate:</string>
+    <string name="header">Currency Exchange Rates</string>
+    <string name="time_updated">Updated:</string>
+    <string name="usd" translatable="false">EUR/USD</string>
+    <string name="button_update">Update now</string>
+    <string name="gbp" translatable="false">EUR/GBP</string>
+    <string name="rub" translatable="false">EUR/RUB</string>
+    <string name="button_location">Show my location</string>
+    <string name="version">Version 1.0</string>
+</resources>

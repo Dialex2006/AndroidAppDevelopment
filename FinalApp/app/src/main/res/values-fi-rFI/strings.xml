@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sovellus</string>
+    <string name="welcome">Tervetuloa!</string>
+    <string name="currencies">Vaihtokurssit</string>
+    <string name="start_gps">Aloita GPS</string>
+    <string name="jpy_rate">EUR/JPY kurssi:</string>
+    <string name="nok_rate">EUR/NOK kurssi:</string>
+    <string name="sek_rate">EUR/SEK rate:</string>
+    <string name="rub_rate">EUR/RUB rate:</string>
+    <string name="gbp_rate">EUR/GBP rate:</string>
+    <string name="usd_rate">EUR/USD rate:</string>
+    <string name="version">Versio 1.0</string>
+    <string name="header">Vaihtokurssit</string>
+    <string name="time_updated">Päivitetty:</string>
+    <string name="button_update">Päivitä nyt</string>
+    <string name="button_location">Näytä minun sijanti</string>
+    <string name="author">Toteuttaja: Dmitrii Bacherikov</string>
+</resources>
